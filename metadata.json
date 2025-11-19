@@ -1,0 +1,5 @@
+{
+  "name": "Storybook Weaver",
+  "description": "Turns personal narratives into illustrated, narrated digital storybooks using Gemini 2.5 Flash, Image, and TTS models.",
+  "requestFramePermissions": []
+}
